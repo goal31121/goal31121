@@ -10,17 +10,8 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sashank-gandikota">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SashankBharadwaj11">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=SashankBharadwaj11&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-</div>
+</div> -->
 
 ---
 
@@ -28,7 +19,7 @@
 
 <img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-Software Engineer with 4+ years of experience building backend and distributed systems in cloud environments. Skilled in microservices architecture, event-driven systems, performance optimization, and reliability engineering. Experienced with CI/CD automation, containerized deployments, and observability across production services. Strong interest in integrating LLM/RAG/agent capabilities into scalable software products with measurable latency and quality constraints.
+Software Engineer with 8+ years of experience building backend and distributed systems in cloud environments. Skilled in microservices architecture, event-driven systems, performance optimization, and reliability engineering. Experienced with CI/CD automation, containerized deployments, and observability across production services. Strong interest in integrating LLM/RAG/agent capabilities into scalable software products with measurable latency and quality constraints.
 
 ---
 
