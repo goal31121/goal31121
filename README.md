@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1800&color=1D4ED8&center=true&vCenter=true&width=1200&lines=Hi%2C+I'm+Sashank+Gandikota;Software+Engineer+%7C+Backend+%7C+Distributed+Systems;Microservices%2C+Kafka%2C+Cloud+%26+Reliability+Engineering;Integrating+LLM%2C+RAG%2C+and+Agent+Systems+into+Production+Platforms;Innovate.+Build.+Evaluate.+Deploy."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1800&color=1D4ED8&center=true&vCenter=true&width=1200&lines=Hi%2C+I'm+Daishi+Kaito;Software+Engineer+%7C+Backend+%7C+Distributed+Systems;Microservices%2C+Kafka%2C+Cloud+%26+Reliability+Engineering;Integrating+LLM%2C+RAG%2C+and+Agent+Systems+into+Production+Platforms;Innovate.+Build.+Evaluate.+Deploy."
     alt="Typing SVG"
   />
 </div>
@@ -9,9 +9,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="720" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SashankBharadwaj11&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-</div> -->
 
 ---
 
