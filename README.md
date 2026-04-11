@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1800&color=1D4ED8&center=true&vCenter=true&width=1200&lines=Hi%2C+I'm+Daishi+Kaito;Software+Engineer+%7C+Backend+%7C+Distributed+Systems;Microservices%2C+Kafka%2C+Cloud+%26+Reliability+Engineering;Integrating+LLM%2C+RAG%2C+and+Agent+Systems+into+Production+Platforms;Innovate.+Build.+Evaluate.+Deploy."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1800&color=1D4ED8&center=true&vCenter=true&width=1200&lines=Hi%2C+I'm+Daishi+Kaito;Software+Engineer+%7C+Backend+%7C+Frontend+%7C+Distributed+Systems;Microservices%2C+Kafka%2C+Cloud+%26+Reliability+Engineering;Integrating+LLM%2C+RAG%2C+and+Agent+Systems+into+Production+Platforms;Innovate.+Build.+Evaluate.+Deploy."
     alt="Typing SVG"
   />
 </div>
@@ -34,6 +34,7 @@ Software Engineer with 8+ years of experience building backend and distributed s
 
 Languages: Python, Java, TypeScript, JavaScript, SQL, C++  
 Backend: Spring Boot, Node.js, REST APIs, Microservices, Kafka  
+Frontend: React, Next.js, Vue.js, TypeScript, Tailwind CSS
 Databases: PostgreSQL, Oracle, CosmosDB, Query Optimization, Indexing  
-Cloud/DevOps: AWS, Azure, Docker, Kubernetes, Jenkins, GitHub Actions  
-AI: RAG pipelines, LangChain, LangGraph, LlamaIndex, Transformers, Whisper
+Cloud/DevOps: AWS, Docker, CI/CD (GitHub Actions), Serverless Architectures
+AI: LLM Integration, RAG Systems,NLP Concepts, Data Processing Pipelines, Automation Workflows
