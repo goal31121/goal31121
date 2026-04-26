@@ -38,3 +38,14 @@ Frontend: React, Next.js, Vue.js, TypeScript, Tailwind CSS
 Databases: PostgreSQL, Oracle, CosmosDB, Query Optimization, Indexing  
 Cloud/DevOps: AWS, Docker, CI/CD (GitHub Actions), Serverless Architectures
 AI: LLM Integration, RAG Systems,NLP Concepts, Data Processing Pipelines, Automation Workflows
+
+---
+
+## What I Can Do For You
+
+✔ Build AI-powered platforms  
+✔ Create scalable web applications  
+✔ Automate business workflows  
+✔ Deliver production-ready systems
+📩 Available for freelance projects  
+💬 Contact: success.goal31121@gmail.com
