@@ -47,5 +47,6 @@ AI: LLM Integration, RAG Systems,NLP Concepts, Data Processing Pipelines, Automa
 ✔ Create scalable web applications  
 ✔ Automate business workflows  
 ✔ Deliver production-ready systems
+
 📩 Available for freelance projects  
 💬 Contact: success.goal31121@gmail.com
