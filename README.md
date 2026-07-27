@@ -16,14 +16,8 @@
 
 <img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-I am an AI and backend engineer with over 10 years of experience designing and successfully building scalable web
-applications, AI powered products, and enterprise grade software solutions. Leveraging expertise in React,
-Next.js, TypeScript, and modern frontend architectures, I have hands on experience integrating LLMs, RAG
-systems, and intelligent automation technologies notably leading a project that reduced operational costs by 40%.
-I also possess experience in designing distributed systems and blockchain infrastructure; a key achievement
-includes building a private Hyperledger Fabric network that reduced security risks by 93%. I focus on transforming
-complex requirements into measurable, tangible results and lead projects through their entire lifecycle, from
-architectural design to deployment.
+I am an AI and backend engineer with over 10 years of experience designing and successfully building scalable web applications, AI powered products, and enterprise grade software solutions. Leveraging expertise in React, Next.js, TypeScript, and modern frontend architectures, I have hands on experience integrating LLMs, RAG systems, and intelligent automation technologies notably leading a project that reduced operational costs by 40%.
+I also possess experience in designing distributed systems and blockchain infrastructure; a key achievement includes building a private Hyperledger Fabric network that reduced security risks by 93%. I focus on transforming complex requirements into measurable, tangible results and lead projects through their entire lifecycle, from architectural design to deployment.
 
 ---
 
