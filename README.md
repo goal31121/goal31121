@@ -5,9 +5,9 @@
   />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="720" />
-</div>
+</div> -->
 
 
 ---
@@ -66,18 +66,6 @@ I also possess experience in designing distributed systems and blockchain infras
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-
-
-<!-- 
-## Tech stack
-
-Languages: Python, Java, TypeScript, JavaScript, SQL, C++  
-Backend: Spring Boot, Node.js, REST APIs, Microservices, Kafka  
-Frontend: React, Next.js, Vue.js, TypeScript, Tailwind CSS
-Databases: PostgreSQL, Oracle, CosmosDB, Query Optimization, Indexing  
-Cloud/DevOps: AWS, Docker, CI/CD (GitHub Actions), Serverless Architectures
-AI: LLM Integration, RAG Systems,NLP Concepts, Data Processing Pipelines, Automation Workflows -->
 
 ---
 
