@@ -97,8 +97,7 @@ I am an AI and backend engineer with over 10 years of experience designing and s
 ![Engineering Process](https://img.shields.io/badge/Engineering_Process-455A64?style=for-the-badge)
 
 ---
-
-##Currently interested in
+## Currently interested in
 
 • AI infrastructure
 • Distributed systems
