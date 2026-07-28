@@ -32,6 +32,7 @@ I am an AI and backend engineer with over 10 years of experience designing and s
 
 
 ### 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 ### 🤖 AI & LLM Systems
 
@@ -43,36 +44,32 @@ I am an AI and backend engineer with over 10 years of experience designing and s
   <img src="https://cdn.simpleicons.org/llamaindex" width="48" />
 </p>
 
-**Also Experienced With**
-
-- LangGraph
-- Langfuse
-- smolagents
-- RAG
-- AI Agents
-- Embeddings
-- Semantic Search
-- Prompt Engineering
-- Function Calling
-- Tool Use
-- Structured Outputs
-- LLM Evaluation
+![LangGraph](https://img.shields.io/badge/LangGraph-4B5563?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square)
+![smolagents](https://img.shields.io/badge/smolagents-FFB000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-0066CC?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-2E8B57?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=flat-square)
+![Function Calling](https://img.shields.io/badge/Function_Calling-4CAF50?style=flat-square)
+![Tool Use](https://img.shields.io/badge/Tool_Use-795548?style=flat-square)
+![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-607D8B?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-5C6BC0?style=flat-square)
 
 ---
 
-### ⚙️ Backend & Systems
+### ⚙️ Backend & Systems Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,typescript,fastapi,graphql,rust" />
 </p>
 
-**Architecture**
-
-- REST APIs
-- Microservices
-- Event-Driven Architecture
-- Multi-Tenant SaaS
-- System Design
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-FF9800?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/Event_Driven-3F51B5?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-1565C0?style=flat-square)
+![Multi-Tenant SaaS](https://img.shields.io/badge/Multi--Tenant_SaaS-7B1FA2?style=flat-square)
 
 ---
 
@@ -80,19 +77,19 @@ I am an AI and backend engineer with over 10 years of experience designing and s
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs" />
-  <img src="https://cdn.simpleicons.org/react" width="48"/>
+  <img src="https://cdn.simpleicons.org/react" width="48" title="React Native" />
 </p>
 
-React Native
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square)
 
 ---
 
-### 🗄 Databases
+### 🗄 Databases & ORM
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
-  <img src="https://cdn.simpleicons.org/drizzle" width="48"/>
-  <img src="https://cdn.simpleicons.org/neondottech" width="48"/>
+  <img src="https://cdn.simpleicons.org/drizzle" width="48" />
+  <img src="https://cdn.simpleicons.org/neondottech" width="48" />
 </p>
 
 ---
@@ -101,23 +98,21 @@ React Native
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,vercel,grafana" />
-  <img src="https://cdn.simpleicons.org/flydotio" width="48"/>
+  <img src="https://cdn.simpleicons.org/flydotio" width="48" />
 </p>
 
-**Also**
-
-- Serverless
-- CI/CD
-- QStash
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=flat-square)
+![QStash](https://img.shields.io/badge/QStash-000000?style=flat-square)
 
 ---
 
-### 👨‍💼 Leadership
+### 👨‍💼 Engineering Leadership
 
-- Technical Leadership
-- Delivery Ownership
-- Code Review
-- Engineering Process Design
+![Technical Leadership](https://img.shields.io/badge/Technical_Leadership-1976D2?style=flat-square)
+![Delivery Ownership](https://img.shields.io/badge/Delivery_Ownership-8E24AA?style=flat-square)
+![Code Review](https://img.shields.io/badge/Code_Review-4CAF50?style=flat-square)
+![Engineering Process](https://img.shields.io/badge/Engineering_Process-455A64?style=flat-square)
 
 ---
 ## Currently interested in
