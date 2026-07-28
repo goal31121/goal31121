@@ -99,12 +99,6 @@ I am an AI and backend engineer with over 10 years of experience designing and s
 ---
 ## Currently interested in
 
-- Distributed backend design: microservices, event-driven architecture, Kafka
-- Performance engineering: concurrency, profiling, tail-latency reduction
-- Reliability: idempotency, retries/timeouts, circuit breakers, RCA
-- Cloud and DevOps: Docker, Kubernetes, CI/CD, monitoring and tracing
-- AI integration: LLM/RAG/agent workflows embedded into production services
-
 - AI infrastructure
 - Distributed systems
 - Backend architecture
