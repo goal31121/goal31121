@@ -31,13 +31,12 @@ I am an AI and backend engineer with over 10 years of experience designing and s
 ---
 
 
-### 🛠 Tech Stack & Tools## 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
 ### 🤖 AI & LLM Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="48"/>
-  <img src="https://cdn.simpleicons.org/openai" height="48"/>
   <img src="https://cdn.simpleicons.org/anthropic" height="48"/>
 </p>
 
