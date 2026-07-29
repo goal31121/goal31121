@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1800&color=1D4ED8&center=true&vCenter=true&width=1200&lines=Hi%2C+I'm+Taishi+Hasegawa;Software+Engineer+%7C+Backend+%7C+Frontend+%7C+Distributed+Systems;Microservices%2C+Kafka%2C+Cloud+%26+Reliability+Engineering;Integrating+LLM%2C+RAG%2C+and+Agent+Systems+into+Production+Platforms;Innovate.+Build.+Evaluate.+Deploy."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1800&color=1D4ED8&center=true&vCenter=true&width=1200&lines=Software+Engineer+%7C+Backend+%7C+Frontend+%7C+Distributed+Systems;Microservices%2C+Kafka%2C+Cloud+%26+Reliability+Engineering;Integrating+LLM%2C+RAG%2C+and+Agent+Systems+into+Production+Platforms;Innovate.+Build.+Evaluate.+Deploy."
     alt="Typing SVG"
   />
 </div>
